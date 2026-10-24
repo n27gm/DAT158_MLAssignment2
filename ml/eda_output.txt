@@ -1,0 +1,47 @@
+Form: (188533, 13)
+
+Manglende verdier:
+ fuel_type       5083
+accident        2452
+clean_title    21419
+dtype: int64
+
+Pris (USD):
+ count     188533.0
+mean       43878.0
+std        78820.0
+min         2000.0
+25%        17000.0
+50%        30825.0
+75%        49900.0
+max      2954083.0
+Name: price, dtype: float64
+
+Antall unike verdier:
+ id              188533
+brand               57
+model             1897
+model_year          34
+milage            6651
+fuel_type            7
+engine            1117
+transmission        52
+ext_col            319
+int_col            156
+accident             2
+clean_title          1
+price             1569
+dtype: int64
+
+Korrelasjon med pris:
+ price          1.000
+model_year     0.232
+milage        -0.283
+hp             0.276
+liters         0.093
+cylinders      0.138
+accident      -0.125
+clean_title   -0.089
+Name: price, dtype: float64
+
+Figurer lagret i /app/ml/figures

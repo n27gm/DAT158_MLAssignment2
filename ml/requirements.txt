@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy
+scikit-learn
+lightgbm
+matplotlib
+joblib
+kaggle
+fastapi
+uvicorn
+python-dotenv

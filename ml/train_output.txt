@@ -1,0 +1,10 @@
+/root/.venv/lib/python3.11/site-packages/lightgbm/sklearn.py:1106: LGBMDeprecationWarning: The argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+/root/.venv/lib/python3.11/site-packages/lightgbm/sklearn.py:1106: LGBMDeprecationWarning: The argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+Baseline: gjennomsnitt                   RMSE=    74573  MAE=   29087  R2=-0.000
+Ridge (numeriske trekk, log-pris)        RMSE=    70491  MAE=   18419  R2=0.106
+LightGBM (log-pris)                      RMSE=    68557  MAE=   17055  R2=0.155
+LightGBM (rå pris)                       RMSE=    68092  MAE=   19590  R2=0.166
+Beste antall trær (rå pris): 98
+Modell og metadata lagret i /app/backend/model
