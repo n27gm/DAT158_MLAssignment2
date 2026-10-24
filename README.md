@@ -19,7 +19,7 @@ Modellen er trent på dataene fra Kaggle konkurransen [Playground Series S4E9](h
 
 
 
-### Trene modellen selv
+#### Trene modellen selv
 Må bruke Python 3.10 eller nyere.
 
 ```bash
@@ -29,7 +29,7 @@ python ml/eda.py
 python ml/train.py           # lagrer modellen i backend/model/
 ```
 
-### Kjøre nettsiden lokalt
+#### Kjøre nettsiden lokalt
 
 Backend:
 
