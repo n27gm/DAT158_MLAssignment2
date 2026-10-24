@@ -29,7 +29,7 @@ python ml/eda.py
 python ml/train.py           # lagrer modellen i backend/model/
 ```
 
-#### Kjøre nettsiden lokalt
+### Kjøre nettsiden lokalt
 
 Backend:
 
