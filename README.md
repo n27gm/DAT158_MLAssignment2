@@ -10,6 +10,8 @@ Modellen er trent på dataene fra Kaggle konkurransen [Playground Series S4E9](h
 ### Rapport
 //må fylles
 
+
+
 #### Mapper
 - `ml/` : nedlasting av data, dataanalyse (`eda.py`) og trening (`train.py`). Figurene ligger i `ml/figures/`.
 - `backend/` : FastAPI server, feature engineering (`car_features.py`) og den trente modellen i `model/`.
@@ -43,6 +45,8 @@ yarn start
 ```
 
 Siden åpnes på http://localhost:3000.
+
+
 
 ### Resultater
 Fra valideringssettet (20 % av dataene):
