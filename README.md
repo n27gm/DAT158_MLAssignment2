@@ -17,7 +17,9 @@ Modellen er trent på dataene fra Kaggle konkurransen [Playground Series S4E9](h
 - `backend/` : FastAPI server, feature engineering (`car_features.py`) og den trente modellen i `model/`.
 - `frontend/` : React-nettsiden.
 
-#### Trene modellen selv
+
+
+### Trene modellen selv
 Må bruke Python 3.10 eller nyere.
 
 ```bash
