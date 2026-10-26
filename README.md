@@ -8,8 +8,9 @@ Nettside der man fyller inn info om en bruktbil og får et prisestimat fra en Li
 Modellen er trent på dataene fra Kaggle konkurransen [Playground Series S4E9](https://www.kaggle.com/competitions/playground-series-s4e9).
 
 ### Rapport
-//må fylles
+[RAPPORT.md](RAPPORT.md).
 
+Nettside:_<legg inn lenke her>_
 
 
 #### Mapper
