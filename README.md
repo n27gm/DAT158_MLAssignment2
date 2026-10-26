@@ -1,4 +1,3 @@
-
 # Bruktbilpris
 ### Gruppemedlemer
 - Naghm Alqaragei
